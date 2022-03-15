@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints "Holberton"
+ * main - prints "_putchar"
  *
  * Return: 0 if execution was successful
  */
