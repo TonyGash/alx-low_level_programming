@@ -7,13 +7,11 @@
  */
 int main(void)
 {
-	char *text = "_putchar\n";
-	int textLen = 10;
-	int i = 0;
+	char sentence = '_';
+	char sen = 'p';
 
-	for (; i < textLen; i++)
-	{
-		_putchar(text[i]);
-	}
+	putchar(sentence);
+	putchar(sen);
+	
 	return (0);
 }
