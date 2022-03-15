@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char *text = "Holberton\n";
+	char *text = "_putchar\n";
 	int textLen = 10;
 	int i = 0;
 
