@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef LISTS_H
+#define LISTS_H
 
 #include <stdlib.h>
 /**
@@ -8,8 +8,6 @@
  * @len: length of the string
  * @next: points to the next node
  *
- * Description: singly linked list node structure
- * for Holberton project
  */
 typedef struct list_s
 {
